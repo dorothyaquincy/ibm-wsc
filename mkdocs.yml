@@ -1,0 +1,23 @@
+site_name: IBM Washington Systems Center
+site_url: https://ibm-wsc.github.io
+theme:
+  name: material
+  logo: assets/wsc_logo.png
+  favicon: assets/wsc_logo.png
+  palette: 
+  #Dark Mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Dark Mode
+    primary: green
+    accent: deep purple
+  #light mode
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Light mode
+    primary: blue
+    accent: deep orange
+
+
