@@ -17,3 +17,10 @@ This repository contains presentations, labs, and demonstrations for the IBM Z p
 | Sustainability | Link |
 | Watson Code Assistant for z/OS | Link |
 
+=== "With tabs"
+
+[![Navigation tabs enabled]][Navigation tabs enabled]
+
+=== "Without"
+
+[![Navigation tabs disabled]][Navigation tabs disabled]
