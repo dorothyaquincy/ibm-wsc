@@ -1,5 +1,3 @@
-# IBM MQ for z/OS
-
 This repository contains presentations, labs, and demonstrations for the IBM Z portfolio.
 
 | Product    | Assets |
