@@ -1,17 +1,14 @@
 # IBM z/OS Connect
 
-    === "Unordered List"
+This repository contains material from the z/OS Connect EE Wildfire workshops run by the IBM Washington Systems Center. It is should be referenced frequently for updates to the presentations, exercices, samples and other material.
 
-        ``` markdown
-        * Sed sagittis eleifend rutrum
-        * Donec vitae suscipit est
-        * Nulla tempor lobortis orci
-        ```
+=== "IBM z/OS Connect Wildfire Workshop"
 
-    === "Ordered List"
+    | Offering    | Asset |
+    | -------- | ------- |
+    | Accessing z/OS resources from REST clients using IBM z/OS Connect ||
+    | Accessing REST APIs form z/OS application using IBM z/OS Connect ||
+    | WebSphere Liberty Profile on z/OS Administration and Management ||
+    | Hands-on Workshop | [https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop) |
 
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
-        ```
+Reach out to mitch.johnson@ibm.com for questions.

@@ -1,11 +1,11 @@
 site_name: IBM Washington Systems Center
 site_url: ""
 theme:
-  features:
-    - navigation.tabs
   name: material
   logo: assets/wsc_logo.png
   favicon: assets/wsc_logo.png
+  font:
+    text: IBM Plex Sans
   palette: 
   #Dark Mode
   - scheme: slate
@@ -21,5 +21,44 @@ theme:
       name: Light mode
     primary: blue
     accent: deep orange
+    features:
+      - content.tabs.link
+      - navigation.path
+      - navigation.prune
+
+
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+copyright: |
+  &copy; 2024 IBM
 
 
